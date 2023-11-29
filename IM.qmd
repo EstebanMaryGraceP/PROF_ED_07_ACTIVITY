@@ -1,6 +1,6 @@
 ---
-title: "Untitled"
-author: "mary esteban"
+title: "Simple Discount"
+author: "Mary Esteban"
 format: html   
 editor: visual
 ---
